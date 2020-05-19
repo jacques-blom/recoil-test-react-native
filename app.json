@@ -1,0 +1,17 @@
+{
+  "name": "RecoilTestRN",
+  "displayName": "RecoilTestRN",
+  "expo": {
+    "name": "RecoilTestRN",
+    "slug": "RecoilTestRN",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
