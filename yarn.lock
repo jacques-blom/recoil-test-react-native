@@ -1196,10 +1196,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@jacques-blom/recoil@^0.0.11":
-  version "0.0.11"
-  resolved "https://npm.pkg.github.com/download/@jacques-blom/recoil/0.0.11/95c8abc46ef40e9de2770dc3eac4d29726f4f63ee0a09924638b57c682d9057c#dfc8ea61910ab1441ceaa3fd032e469ed64d3817"
-  integrity sha512-TZnwW5ldBcC1StIRW4QHRvayBFcdezxdRB+1UqPKstQ7TVfkUDfTj6c20IKss/1FDiWO48BGyKXI4bjB3cD8tA==
+"@jacques-blom/recoil@^0.0.13":
+  version "0.0.13"
+  resolved "https://npm.pkg.github.com/download/@jacques-blom/recoil/0.0.13/ede50eb1bd490ca2696619a97238694bd2bd32f539d454dab8ed45afec20484b#d7fd63937ea671b9ccb38472aaaae64a69ea246c"
+  integrity sha512-FwdhVqLz7Av598bK1Ed4+mxVj7HPN424PVteaWEWXDs4kVsmUtAK4EgTx/FxX7cl0ZEeF0OMYapTr6mI7ZYv5Q==
 
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
