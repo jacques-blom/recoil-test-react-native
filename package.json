@@ -14,7 +14,6 @@
         "expo-updates": "~0.2.0",
         "faker": "^5.1.0",
         "react": "~16.9.0",
-        "react-dom": "~16.9.0",
         "react-native": "~0.61.5",
         "react-native-gesture-handler": "~1.6.0",
         "react-native-reanimated": "~1.7.0",

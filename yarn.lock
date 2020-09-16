@@ -1196,10 +1196,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@jacques-blom/recoil@^0.0.13":
-  version "0.0.13"
-  resolved "https://npm.pkg.github.com/download/@jacques-blom/recoil/0.0.13/ede50eb1bd490ca2696619a97238694bd2bd32f539d454dab8ed45afec20484b#d7fd63937ea671b9ccb38472aaaae64a69ea246c"
-  integrity sha512-FwdhVqLz7Av598bK1Ed4+mxVj7HPN424PVteaWEWXDs4kVsmUtAK4EgTx/FxX7cl0ZEeF0OMYapTr6mI7ZYv5Q==
+"@jacques-blom/recoil@latest":
+  version "0.0.16"
+  resolved "https://npm.pkg.github.com/download/@jacques-blom/recoil/0.0.16/c947ec9527b593917aad964fd1c2e50c550271c99936a75c258584f123050b77#281780b5b85222215d9f3a9740a2cd6082799aa4"
+  integrity sha512-KQMtrZauLguHNa/nS8Ayj3xROk0+/QgT10w1u6BxhOeWSjqCQ7PjNnAl75PPspbfREQK3x78hAW66ok3bQO9Eg==
 
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
@@ -6362,16 +6362,6 @@ react-devtools-core@^3.6.3:
   dependencies:
     shell-quote "^1.6.1"
     ws "^3.3.1"
-
-react-dom@~16.9.0:
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
-  integrity sha512-YFT2rxO9hM70ewk9jq0y6sQk8cL02xm4+IzYBz75CQGlClQQ1Bxq0nhHF6OtSbit+AIahujJgb/CPRibFkMNJQ==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    scheduler "^0.15.0"
 
 react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   version "16.13.1"
